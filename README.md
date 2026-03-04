@@ -4,13 +4,13 @@
     <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=35&color=0FF0FC&center=true&vCenter=true&width=550&height=70&duration=4000&lines=Welcome+to+My+Github+Profile!;I'm+SaTYa+Saila!;I+💖+Problem+Solving!;lly+Seeking+for+Internship+Opportunities" />
 </h1>
 
-<h3 align="center">A passionate DataScience And Machine Learning Enthusiast , India</h3> 
+<h3 align="center">A passionate AI and Software Engineer , India</h3> 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=venkat-0706&label=Profile%20views&color=0e75b6&style=flat" alt="venkat-0706" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=satyasaila18&label=Profile%20views&color=0e75b6&style=flat" alt="satyasaila18" /> </p>
 
-<p align="left"> <a href="https://github.com/venkat-0706/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=venkat-0706" alt="venkat-0706" /></a> </p>
+<p align="left"> <a href="https://github.com/satyasaila18/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=satyasaila18" alt="satyasaila18" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+<p align="left"> <a href="https://twitter.com/always_satya_" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 ## 👋 Hey there! I'm Saila SaTYa Naga Durga Prasad  
 
@@ -26,7 +26,7 @@
 
 🌐 Explore My Work:
 - 🖥️ [Portfolio](https://venkat-0706.github.io/Chandu.dev/)
-- 🐙 [GitHub](https://github.com/venkat-0706)
+- 🐙 [GitHub](https://github.com/satyasaila18)
 - 🎥 [YouTube Channel](https://www.youtube.com/@user-em3mq3zi7s)
 - 📊 [Stats](https://gitglance.vercel.app/satyasaila)
 
@@ -43,10 +43,10 @@
 <h3 align="left"><img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=35&color=0FF0FC&center=true&vCenter=true&width=550&height=70&duration=4000&lines=Connect+with+me;" /></h3>
 <p align="left">
 <a href="https://dev.to/venkatachandu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="venkatachandu" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/chandu0706" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="chandu0706" height="30" width="40" /></a>
-<a href="https://instagram.com/ch4ndU7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ch4n00" height="30" width="40" /></a>
-<a href="https://wa.me/+919640186272" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg" alt="tel:+919640186272" height="30" width="40" /></a>
-<a href="mailto:chanduabbireddy247@gmail.com?subject=Your Subject&body=Your Message" target="blank">  
+<a href="https://linkedin.com/in/satyasaila185" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="chandu0706" height="30" width="40" /></a>
+<a href="https://instagram.com/_always_satya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ch4n00" height="30" width="40" /></a>
+<a href="https://wa.me/+916305365992" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg" alt="tel:+919640186272" height="30" width="40" /></a>
+<a href="mailto:satyasaila18@gmail.com?subject=Your Subject&body=Your Message" target="blank">  
     <img align="center" src="https://res.cloudinary.com/dhmixzenl/image/upload/v1737696648/mail_wedo8h.png" alt="Email" height="30" width="40" />  
 </a>
 </p>
