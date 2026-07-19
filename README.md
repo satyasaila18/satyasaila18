@@ -7,7 +7,9 @@
 </h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Welcome+to+My+GitHub+Profile!;Python+Developer;Software+Engineer;Backend+Developer;AI+%26+Machine+Learning+Enthusiast;Always+Learning+New+Technologies" />
+
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Welcome+to+My+GitHub+Profile!;Python+Developer;Software+Engineer;Backend+Developer;AI+%26+Machine+Learning+Enthusiast;ServiceNow+Administrator;Always+Learning+New+Technologies" />
+
 </p>
 
 <p align="center">
@@ -26,9 +28,9 @@
 
 🎓 Computer Science Graduate
 
-💻 Passionate about Software Engineering, Artificial Intelligence and Backend Development.
+💻 Passionate about Software Engineering, Backend Development, Artificial Intelligence and ServiceNow Development.
 
-🐍 Strong knowledge in
+🐍 **Strong knowledge in**
 
 - Python
 - SQL
@@ -36,23 +38,50 @@
 - Data Structures & Algorithms
 - Machine Learning
 - Git & GitHub
+- ServiceNow Administration
 
-🌱 Currently Learning
+🌱 **Currently Learning**
 
+- Advanced Python
 - Django
 - REST APIs
 - System Design
-- Advanced Python
 - Backend Development
+- ServiceNow Development
 
-🎯 Career Objective
+🎯 **Career Objective**
 
-Seeking opportunities as a
+Seeking opportunities as
 
 - Software Engineer
 - Python Developer
 - Backend Developer
 - AI/ML Engineer
+- ServiceNow Developer
+
+---
+
+# 💼 Professional Skills
+
+✔ Python Development
+
+✔ ServiceNow Administration
+
+✔ SQL & Database Design
+
+✔ Object-Oriented Programming
+
+✔ Data Structures & Algorithms
+
+✔ Machine Learning
+
+✔ REST APIs
+
+✔ Git & GitHub
+
+✔ Linux
+
+✔ Problem Solving
 
 ---
 
@@ -61,6 +90,8 @@ Seeking opportunities as a
 <p align="center">
 
 <img src="https://skillicons.dev/icons?i=python,django,java,cpp,mysql,git,github,linux,vscode,html,css,bootstrap,javascript"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/servicenow/servicenow-original.svg" height="48"/>
 
 </p>
 
@@ -76,25 +107,25 @@ Seeking opportunities as a
 
 ## 🧠 Multimodal Deepfake Detection
 
-> Deepfake Detection using CNN, ResNet and RoBERTa.
+> Deepfake Detection using CNN, ResNet, RoBERTa and Deep Learning techniques for image and text analysis.
 
 ---
 
+## ☁️ ServiceNow Incident Management System
 
-## 🎫 ServiceNow Ticket Assignment
+> Automated Incident Assignment & Routing using:
 
-> Automated Incident Routing using
-
-- Flow Designer
-- Assignment Rules
-- ACL
-- ServiceNow Administration
+- ⚙️ Flow Designer
+- 👥 Assignment Rules
+- 🔐 Access Control Lists (ACL)
+- 📋 Incident Management
+- ☁️ ServiceNow Administration
 
 ---
 
 ## 📊 Economic Freedom Dashboard
 
-> Tableau Dashboard developed using Python and SQL.
+> Interactive Tableau Dashboard developed using Python, SQL and Tableau for data visualization and analysis.
 
 ---
 
@@ -106,6 +137,27 @@ Seeking opportunities as a
 - System Design
 - SQL Optimization
 - Backend Development
+- Git Advanced Concepts
+- ServiceNow Development
+
+---
+
+# 📸 Beyond Coding
+
+<p align="center">
+
+<img src="https://img.icons8.com/color/48/slr-camera.png"/>
+
+<img src="https://img.icons8.com/color/48/cricket.png"/>
+
+<img src="https://img.icons8.com/color/48/headphones.png"/>
+
+</p>
+
+- 📸 Photography
+- 🏏 Playing Cricket
+- 🎧 Listening to Music
+- 🎙️ Watching Tech Podcasts
 
 ---
 
@@ -179,7 +231,7 @@ Seeking opportunities as a
 
 ---
 
-# 💼 Coding Profiles
+# 💻 Coding Profiles
 
 <p align="center">
 
@@ -209,6 +261,8 @@ Seeking opportunities as a
 
 ### ⭐ Thanks for visiting my profile! ⭐
 
-If you like my work, consider giving a ⭐ to my repositories.
+If you find my work interesting, consider giving a ⭐ to my repositories.
+
+Happy Coding! 🚀
 
 </div>
