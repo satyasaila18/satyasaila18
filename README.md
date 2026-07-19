@@ -1,70 +1,224 @@
-
-
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=35&color=0FF0FC&center=true&vCenter=true&width=550&height=70&duration=4000&lines=Welcome+to+My+Github+Profile!;I'm+SaTYa+Saila!;I+💖+Problem+Solving!;lly+Seeking+for+Internship+Opportunities" />
+  Hi 👋, I'm <span style="color:#00F7FF;">Saila Satya Naga Durga Prasad</span>
 </h1>
 
-<h3 align="center">A passionate AI and Software Engineer , India</h3> 
+<h3 align="center">
+🚀 Computer Science Graduate | Python Developer | AI & ML Enthusiast | Software Engineer
+</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=satyasaila18&label=Profile%20views&color=0e75b6&style=flat" alt="satyasaila18" /> </p>
-
-<p align="left"> <a href="https://github.com/satyasaila18/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=satyasaila18" alt="satyasaila18" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/always_satya_" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-
-## 👋 Hey there! I'm Saila SaTYa Naga Durga Prasad  
-
-🚀 Passionate about **Data Science**, **Machine Learning**, **Neural Networks**, and **Data Structures**.
-
-🎯 Currently exploring:
-- 🤖 **Predictive Machine Learning Models**
-- 💬 **AI Chatbots & Conversational AI**
-
-🤝 Actively looking for:
-- 🔍 **Internship Opportunities** in **AI** and **Machine Learning**
-- 🤝 **Collaborations** on **AI/ML/Data Science Projects**
-
-🌐 Explore My Work:
-- 🐙 [GitHub](https://github.com/satyasaila18)
-- 🎥 [YouTube Channel](https://www.youtube.com/@user-em3mq3zi7s)
-- 📊 [Stats](https://gitglance.vercel.app/satyasaila)
-
-📩 Let's Connect:
-- 📧 [Email Me](mailto:satyasaila18@gmail.com)
-
-💬 Ask me anything about **Data Science, Machine Learning, AI, or Python**.
-
-⚡ **Fun Fact:**  
-*I love late-night coding sessions—my best ideas always strike after midnight!*
-
-
-
-<h3 align="left"><img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=35&color=0FF0FC&center=true&vCenter=true&width=550&height=70&duration=4000&lines=Connect+with+me;" /></h3>
-<p align="left">
-<a href="https://linkedin.com/in/satyasaila185" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="satya_saila" height="30" width="40" /></a>
-<a href="https://instagram.com/_always_satya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="satyaaa!!" height="30" width="40" /></a>
-<a href="https://wa.me/+916305365992" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg" alt="tel:+919640186272" height="30" width="40" /></a>
-<a href="mailto:satyasaila18@gmail.com?subject=Your Subject&body=Your Message" target="blank">  
-    <img align="center" src="https://res.cloudinary.com/dhmixzenl/image/upload/v1737696648/mail_wedo8h.png" alt="Email" height="30" width="40" />  
-</a>
-</p>
-
-
-<h3 align="left"><img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=35&color=0FF0FC&center=true&vCenter=true&width=550&height=70&duration=4000&lines=Languages+And+Tools;" /></h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a></p>
-
-
-  
-</p>
 <p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Welcome+to+My+GitHub+Profile!;Python+Developer;Software+Engineer;Backend+Developer;AI+%26+Machine+Learning+Enthusiast;Always+Learning+New+Technologies" />
 </p>
-<h2 align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=35&color=0FF0FC&center=true&vCenter=true&width=550&height=70&duration=4000&lines=⚡+Github+Stats+⚡;" /></h2>
-<br>
-<div align=center><img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=venkat-0706&theme=react&rank_icon=github" height="180em" />
-<img align = "center" src="https://github-readme-streak-stats-salesp07.vercel.app/?user=venkat-0706&count_private=true&theme=react&rank_icon=github" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=venkat-0706&theme=react&rank_icon=github" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=venkat-0706&theme=react&rank_icon=github" height="180em" />
-  <br/>
-  <br/>
-  
 
+<p align="center">
+
+<img src="https://komarev.com/ghpvc/?username=satyasaila18&label=Profile+Views&color=0e75b6&style=for-the-badge"/>
+
+<img src="https://img.shields.io/github/followers/satyasaila18?style=for-the-badge"/>
+
+<img src="https://img.shields.io/github/stars/satyasaila18?affiliations=OWNER&style=for-the-badge"/>
+
+</p>
+
+---
+
+# 👨‍💻 About Me
+
+🎓 Computer Science Graduate
+
+💻 Passionate about Software Engineering, Artificial Intelligence and Backend Development.
+
+🐍 Strong knowledge in
+
+- Python
+- SQL
+- Object-Oriented Programming
+- Data Structures & Algorithms
+- Machine Learning
+- Git & GitHub
+
+🌱 Currently Learning
+
+- Django
+- REST APIs
+- System Design
+- Advanced Python
+- Backend Development
+
+🎯 Career Objective
+
+Seeking opportunities as a
+
+- Software Engineer
+- Python Developer
+- Backend Developer
+- AI/ML Engineer
+
+---
+
+# 🚀 Tech Stack
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=python,django,java,cpp,mysql,git,github,linux,vscode,html,css,bootstrap,javascript"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://go-skill-icons.vercel.app/api/icons?i=numpy,pandas,opencv,sklearn"/>
+
+</p>
+
+---
+
+# 🚀 Featured Projects
+
+## 🧠 Multimodal Deepfake Detection
+
+> Deepfake Detection using CNN, ResNet and RoBERTa.
+
+---
+
+## 📄 Document Fraud Detection
+
+> Aadhaar & Identity Verification using
+
+- OpenCV
+- OCR
+- YOLO
+- Image Processing
+
+---
+
+## 🎫 ServiceNow Ticket Assignment
+
+> Automated Incident Routing using
+
+- Flow Designer
+- Assignment Rules
+- ACL
+- ServiceNow Administration
+
+---
+
+## 📊 Economic Freedom Dashboard
+
+> Tableau Dashboard developed using Python and SQL.
+
+---
+
+# 📚 Currently Learning
+
+- Advanced Python
+- Django
+- REST APIs
+- System Design
+- SQL Optimization
+- Backend Development
+
+---
+
+# 🏆 GitHub Statistics
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=satyasaila18&show_icons=true&theme=tokyonight"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=satyasaila18&layout=compact&theme=tokyonight"/>
+
+</p>
+
+---
+
+# 🔥 GitHub Streak
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=satyasaila18&theme=tokyonight"/>
+
+</p>
+
+---
+
+# 📈 Contribution Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=satyasaila18&theme=tokyo-night"/>
+
+</p>
+
+---
+
+# 🏅 GitHub Trophies
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=satyasaila18&theme=tokyonight&column=4&margin-w=15&margin-h=15"/>
+
+</p>
+
+---
+
+# 🌐 Connect With Me
+
+<p align="center">
+
+<a href="YOUR_LINKEDIN_URL">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:satyasaila18@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://github.com/satyasaila18">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
+
+<a href="YOUR_YOUTUBE_URL">
+<img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
+</a>
+
+<a href="YOUR_LEETCODE_URL">
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+# 💼 Coding Profiles
+
+<p align="center">
+
+<a href="https://www.hackerrank.com/">
+<img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/>
+</a>
+
+<a href="YOUR_LEETCODE_URL">
+<img src="https://img.shields.io/badge/LeetCode-orange?style=for-the-badge&logo=leetcode"/>
+</a>
+
+</p>
+
+---
+
+# 💡 Quote
+
+<div align="center">
+
+### *"Turning ideas into scalable software, one commit at a time."*
+
+</div>
+
+---
+
+<div align="center">
+
+### ⭐ Thanks for visiting my profile! ⭐
+
+If you like my work, consider giving a ⭐ to my repositories.
+
+</div>
