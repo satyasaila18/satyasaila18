@@ -88,7 +88,7 @@ Seeking opportunities as
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=python,django,java,cpp,mysql,git,github,linux,vscode,html,css,bootstrap,javascript"/>
+<img src="https://skillicons.dev/icons?i=python,django,java,cpp,mysql,git,github,linux,vscode,html,css,bootstrap,javascript,ServiceNow"/>
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/5/57/ServiceNow_logo.svg" height="40" alt="ServiceNow"/>
 </p>
