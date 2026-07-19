@@ -28,7 +28,7 @@
 
 🎓 Computer Science Graduate
 
-💻 Passionate about Software Engineering, Backend Development, Artificial Intelligence and ServiceNow Development.
+💻 Passionate about Software Engineering, Backend Development, Artificial Intelligence.
 
 🐍 **Strong knowledge in**
 
@@ -47,7 +47,6 @@
 - REST APIs
 - System Design
 - Backend Development
-- ServiceNow Development
 
 🎯 **Career Objective**
 
@@ -91,8 +90,7 @@ Seeking opportunities as
 
 <img src="https://skillicons.dev/icons?i=python,django,java,cpp,mysql,git,github,linux,vscode,html,css,bootstrap,javascript"/>
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/servicenow/servicenow-original.svg" height="48"/>
-
+<img src="https://upload.wikimedia.org/wikipedia/commons/5/57/ServiceNow_logo.svg" height="40" alt="ServiceNow"/>
 </p>
 
 <p align="center">
