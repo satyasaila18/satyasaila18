@@ -80,16 +80,6 @@ Seeking opportunities as a
 
 ---
 
-## 📄 Document Fraud Detection
-
-> Aadhaar & Identity Verification using
-
-- OpenCV
-- OCR
-- YOLO
-- Image Processing
-
----
 
 ## 🎫 ServiceNow Ticket Assignment
 
