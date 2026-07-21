@@ -36,6 +36,7 @@
 - SQL
 - Object-Oriented Programming
 - Data Structures & Algorithms
+- Frontend & Backend Development
 - Machine Learning
 - Git & GitHub
 - ServiceNow Administration
@@ -47,6 +48,7 @@
 - REST APIs
 - System Design
 - Backend Development
+- Frontend Development
 
 🎯 **Career Objective**
 
@@ -182,13 +184,6 @@ Seeking opportunities as
 
 ---
 
-# 🏅 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=satyasaila18&theme=tokyonight&column=4&margin-w=15&margin-h=15"/>
-
-</p>
 
 ---
 
