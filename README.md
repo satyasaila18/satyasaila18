@@ -159,8 +159,6 @@ Seeking opportunities as
 - 🎧 Listening to Music
 - 🎙️ Watching Tech Podcasts
 
----
-
 
 ---
 
@@ -185,8 +183,6 @@ Seeking opportunities as
 ---
 
 
----
-
 # 🌐 Connect With Me
 
 <p align="center">
@@ -207,8 +203,6 @@ Seeking opportunities as
 
 ---
 
-
----
 
 # 💡 Quote
 
