@@ -8,7 +8,7 @@
 
 <p align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Welcome+to+My+GitHub+Profile!;Python+Developer;Software+Engineer;Backend+Developer;AI+%26+Machine+Learning+Enthusiast;Always+Learning+New+Technologies;Photography" />
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&pause=1000&color=00F700&center=true&vCenter=true&width=900&lines=Welcome+to+My+GitHub+Profile!;Python+Developer;Software+Engineer;Backend+Developer;AI+%26+Machine+Learning+Enthusiast;Always+Learning+New+Technologies;Photography" />
 
 </p>
 
