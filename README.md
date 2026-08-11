@@ -108,6 +108,8 @@ Seeking opportunities as
 ## 🧠 Multimodal Deepfake Detection
 
 > Deepfake Detection using CNN, ResNet, RoBERTa and Deep Learning techniques for image and text analysis.
+>  Developed a multimodal deepfake detection system using Python and OpenCV to identify fake content in images,
+videos, and text.
 
 ---
 
