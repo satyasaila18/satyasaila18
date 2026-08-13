@@ -49,6 +49,7 @@
 - System Design
 - Backend Development
 - Frontend Development
+- GenerativeAI
 
 🎯 **Career Objective**
 
