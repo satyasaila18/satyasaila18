@@ -50,6 +50,7 @@
 - Backend Development
 - Frontend Development
 - GenerativeAI
+- Agile Methodologies
 
 🎯 **Career Objective**
 
