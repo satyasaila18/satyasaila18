@@ -1,30 +1,33 @@
-<h1>
-  👋 Hello, I'm <span style="color:#00F7FF;">Saila Satya Naga Durga Prasad</span>
-</h1>
+<div style="background: linear-gradient(135deg, #00F7FF, #7B2FF7, #FF00A8); padding: 25px; border-radius: 15px; color: white; text-align: center;">
 
-<h3>
-  <code>Computer Science Graduate</code> • 
-  <code>Python Developer</code> • 
-  <code>Backend Engineer</code> • 
-  <code>AI/ML Enthusiast</code>
-</h3>
+  <h1>
+    👋 Hello, I'm <span style="color:#FFFFFF;">Saila Satya Naga Durga Prasad</span>
+  </h1>
 
-<p>
-  🚀 Building real-world applications &nbsp;|&nbsp;
-  🤖 Exploring AI & ML &nbsp;|&nbsp;
-  🐍 Python Development
-</p>
+  <h3>
+    <code>Computer Science Graduate</code> • 
+    <code>Python Developer</code> • 
+    <code>Backend Engineer</code> • 
+    <code>AI/ML Enthusiast</code>
+  </h3>
 
-<p>
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=00F7FF&width=700&lines=Python+Developer;Backend+Engineer;AI+%26+ML+Enthusiast;Building+Real-World+Projects;Exploring+Generative+AI" />
-</p>
+  <p>
+    🚀 Building real-world applications &nbsp;|&nbsp;
+    🤖 Exploring AI & ML &nbsp;|&nbsp;
+    🐍 Python Development
+  </p>
 
-<p>
-  <img src="https://komarev.com/ghpvc/?username=satyasaila18&label=Profile+Views&color=0e75b6&style=flat-square"/>
-  <img src="https://img.shields.io/github/followers/satyasaila18?style=flat-square"/>
-  <img src="https://img.shields.io/github/stars/satyasaila18?affiliations=OWNER&style=flat-square"/>
-</p>
+  <p>
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=FFFFFF&center=true&vCenter=true&width=700&lines=Python+Developer;Backend+Engineer;AI+%26+ML+Enthusiast;Building+Real-World+Projects;Exploring+Generative+AI" />
+  </p>
 
+  <p>
+    <img src="https://komarev.com/ghpvc/?username=satyasaila18&label=Profile+Views&color=000000&style=flat-square"/>
+    <img src="https://img.shields.io/github/followers/satyasaila18?style=flat-square"/>
+    <img src="https://img.shields.io/github/stars/satyasaila18?affiliations=OWNER&style=flat-square"/>
+  </p>
+
+</div>
 
 
 # 👨‍💻 About Me
