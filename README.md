@@ -1,28 +1,27 @@
 <h1 align="center">
-  Hi 👋, I'm <span style="color:#00F7FF;">Saila Satya Naga Durga Prasad</span>
+  👋 Hey, I'm <span style="color:#00F7FF;">Saila Satya Naga Durga Prasad</span>
 </h1>
 
 <h3 align="center">
-🚀 Computer Science Graduate | Python Developer | AI & ML Enthusiast | Software Engineer | Photography |
+  Python Developer • Backend Engineer • AI/ML Enthusiast • Software Engineer
 </h3>
 
 <p align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&pause=1000&color=00F700&center=true&vCenter=true&width=900&lines=Welcome+to+My+GitHub+Profile!;Python+Developer;Software+Engineer;Backend+Developer;AI+%26+Machine+Learning+Enthusiast;Always+Learning+New+Technologies;Photography" />
-
+  <i>Building practical solutions with code, creativity, and continuous learning.</i>
 </p>
 
 <p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=Python+Developer;Backend+Engineer;AI+%26+Machine+Learning+Enthusiast;Building+Real-World+Projects;Exploring+Generative+AI;Always+Learning%2C+Always+Building" />
+</p>
 
-<img src="https://komarev.com/ghpvc/?username=satyasaila18&label=Profile+Views&color=0e75b6&style=for-the-badge"/>
-
-<img src="https://img.shields.io/github/followers/satyasaila18?style=for-the-badge"/>
-
-<img src="https://img.shields.io/github/stars/satyasaila18?affiliations=OWNER&style=for-the-badge"/>
-
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=satyasaila18&label=Profile+Views&color=00F7FF&style=flat-square" />
+  <img src="https://img.shields.io/github/followers/satyasaila18?style=flat-square&label=Followers" />
+  <img src="https://img.shields.io/github/stars/satyasaila18?affiliations=OWNER&style=flat-square&label=Stars" />
 </p>
 
 ---
+
 
 # 👨‍💻 About Me
 
