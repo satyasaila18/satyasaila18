@@ -21,11 +21,6 @@
     <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=FFFFFF&center=true&vCenter=true&width=700&lines=Python+Developer;Backend+Engineer;AI+%26+ML+Enthusiast;Building+Real-World+Projects;Exploring+Generative+AI" />
   </p>
 
-  <p>
-    <img src="https://komarev.com/ghpvc/?username=satyasaila18&label=Profile+Views&color=000000&style=flat-square"/>
-    <img src="https://img.shields.io/github/followers/satyasaila18?style=flat-square"/>
-    <img src="https://img.shields.io/github/stars/satyasaila18?affiliations=OWNER&style=flat-square"/>
-  </p>
 
 </div>
 
