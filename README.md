@@ -3,7 +3,7 @@
 </h1>
 
 <h3 align="center">
-🚀 Computer Science Graduate | Python Developer | AI & ML Enthusiast | Software Engineer | Photography
+🚀 Computer Science Graduate | Python Developer | AI & ML Enthusiast | Software Engineer | Photography |
 </h3>
 
 <p align="center">
