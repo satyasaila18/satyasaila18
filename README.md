@@ -163,7 +163,6 @@ videos, and text.
 - 🏏 Playing Cricket
 - 🎧 Listening to Music
 - 🎙️ Watching Tech Podcasts
--     Editing
 
 
 ---
