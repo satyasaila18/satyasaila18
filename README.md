@@ -128,11 +128,7 @@ videos, and text.
 
 ---
 
-## 📊 Economic Freedom Dashboard
 
-> Interactive Tableau Dashboard developed using Python, SQL and Tableau for data visualization and analysis.
-
----
 
 # 📚 Currently Learning
 
