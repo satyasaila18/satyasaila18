@@ -221,7 +221,7 @@ videos, and text.
 
 If you find my work interesting, consider giving a ⭐ to my repositories.
 
-Carpediem...... ✌️
+Carpediem....... ✌️
 Happy Coding! 🚀
 
 </div>
