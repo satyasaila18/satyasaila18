@@ -87,6 +87,8 @@ Seeking opportunities as
 
 ✔ Problem Solving
 
+✔ SDLC 
+
 ---
 
 # 🚀 Tech Stack
