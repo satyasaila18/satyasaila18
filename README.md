@@ -211,7 +211,7 @@ videos, and text.
 
 <div align="center">
 
-### *"Turning ideas into scalable software, one commit at a time."*
+### *"Turning ideas into scalable software, one commit at a time........"*
 
 </div>
 
