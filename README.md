@@ -12,7 +12,7 @@
   </h3>
 
   <p>
-    🚀 Building real-world applications &nbsp;|&nbsp;
+     &nbsp;|&nbsp;
     🤖 Exploring AI & ML &nbsp;|&nbsp;
     🐍 Python Development
   </p>
