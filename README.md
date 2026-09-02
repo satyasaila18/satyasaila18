@@ -1,4 +1,4 @@
-<div style="background: linear-gradient(135deg, #00F7FF, #7B2FF7, #FF00A8); padding: 25px; border-radius: 15px; color: white; text-align: center;">
+<div style="background: linear-gradient(135deg, #00F7FF, #7B2FF7, #FF00A9); padding: 25px; border-radius: 15px; color: white; text-align: center;">
 
   <h1>
     👋 Hello, I'm <span style="color:#FFFFFF;">Saila Satya Naga Durga Prasad</span>
@@ -12,9 +12,9 @@
   </h3>
 
   <p>
-     &nbsp;|&nbsp;
+      &nbsp;|&nbsp;
     🤖 Exploring AI & ML &nbsp;|&nbsp;
-    🐍 Python Development
+    🐍 Python Development &nbsp;|&nbsp; Vibe Coder
   </p>
 
   <p>
