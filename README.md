@@ -119,7 +119,7 @@ videos, and text.
 
 ---
 
-## ☁️ ServiceNow Incident Management System
+## ☁️ ServiceNow Incident Management System.
 
 > Automated Incident Assignment & Routing using:
 
