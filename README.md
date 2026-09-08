@@ -40,7 +40,7 @@
 - Frontend & Backend Development
 - Machine Learning
 - Git & GitHub
-- ServiceNow Administration
+- ServiceNow Administration.
 
 🌱 **Currently Learning**
 
