@@ -91,23 +91,23 @@ Seeking opportunities as
 ✔ SDLC 
 
 ---
-
-# 🚀 Tech Stack
 <!--
+# 🚀 Tech Stack
+
 <p align="center">
 
 <img src="https://skillicons.dev/icons?i=python,django,java,cpp,mysql,git,github,linux,vscode,html,css,bootstrap,javascript,ServiceNow"/>
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/5/57/ServiceNow_logo.svg" height="40" alt="ServiceNow"/>
 </p>
--->
+
 
 <p align="center">
 
 <img src="https://go-skill-icons.vercel.app/api/icons?i=numpy,pandas,opencv,sklearn"/>
 
 </p>
-
+-->
 ---
 
 # 🚀 Featured Projects
