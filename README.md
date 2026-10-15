@@ -43,8 +43,8 @@
 - Git & GitHub
 - ServiceNow Administration.
 
-🌱 **Currently Learning**
 
+🌱 **Currently Learning**
 - Advanced Python
 - Django
 - REST APIs
