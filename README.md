@@ -15,7 +15,7 @@
   <p>
       &nbsp;|&nbsp;
     🤖 Exploring AI & ML &nbsp;|&nbsp;
-    🐍 Python Development &nbsp;|&nbsp; Vibe Coder
+    🐍 Python  &nbsp;|&nbsp; Vibe Coder
   </p>
 
   <p>
